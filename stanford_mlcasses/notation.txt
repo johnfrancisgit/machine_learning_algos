@@ -1,0 +1,4 @@
+m = Nr. of training examples
+x = input variables / features 	(x,y) = training exapmple
+y = output/target variable which we're trying to predict
+h = hypothesis or classifier/function
